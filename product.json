@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "quantity":1,
+        "name": "Esprit Ruffle Shirt",
+        "price": 999,
+        "image": "Images/product-01.jpg.webp"
+    },
+    {
+        "id": 2,
+        "quantity":1,
+        "name": "Herschel Supply",
+        "price": 459,
+        "image": "Images/product-02.jpg.webp"
+    },
+    {
+        "id": 3,
+        "quantity":1,
+        "name": "Only Check Trouser",
+        "price": 1999,
+        "image": "Images/product-03.jpg.webp"
+    },
+    {
+        "id":4,
+        "quantity":1,
+        "name": "Classic Trench Coat",
+        "price": 749,
+        "image": "Images/product-04.jpg.webp"
+    },
+    {
+        "id": 5,
+        "quantity":1,
+        "name": "Front Pocket Jumper",
+        "price": 2999,
+        "image": "Images/product-05.jpg.webp"
+    },
+    {
+        "id": 6,
+        "quantity":1,
+        "name": "Vintage Inspired Claasic",
+        "price": 2499,
+        "image": "Images/product-06.jpg.webp"
+    },
+    {
+        "id": 7,
+        "quantity":1,
+        "name": "Shirt and Stretch Cotton",
+        "price": 3499,
+        "image": "Images/product-07.jpg.webp"
+    },
+    {
+        "id": 8,
+        "quantity":1,
+        "name": "Pieces Metallic Printed",
+        "price": 3999,
+        "image": "Images/product-08.jpg.webp"
+    },
+    {
+        "id": 9,
+        "quantity":1,
+        "name": "Converse All Star",
+        "price": 4499,
+        "image": "Images/product-09.jpg.webp"
+    },
+    {
+        "id": 10,
+        "quantity":1,
+        "name": "Femme T-Shirt in stripe",
+        "price": 399,
+        "image": "Images/product-10.jpg.webp"
+    },
+    {
+        "id": 11,
+        "quantity":1,
+        "name": "Herschel Supply",
+        "price": 2999,
+        "image": "Images/product-11.jpg.webp"
+    },
+    {
+        "id": 12,
+        "quantity":1,
+        "name": "Front Pocket Jumper",
+        "price": 2999,
+        "image": "Images/product-12.jpg.webp"
+    },
+    {
+        "id": 13,
+        "quantity":1,
+        "name": "Front Pocket Jumper",
+        "price": 2999,
+        "image": "Images/product-13.jpg.webp"
+    },
+    {
+        "id": 14,
+        "quantity":1,
+        "name": "Front Pocket Jumper",
+        "price": 2999,
+        "image": "Images/product-14.jpg.webp"
+    },
+    {
+        "id": 15,
+        "quantity":1,
+        "name": "Front Pocket Jumper",
+        "price": 2999,
+        "image": "Images/product-15.jpg.webp"
+    },
+    {
+        "id": 16,
+        "quantity":1,
+        "name": "Front Pocket Jumper",
+        "price": 2999,
+        "image": "Images/product-16.jpg.webp"
+    }
+]

@@ -1,0 +1,13 @@
+. Website should full responsive on all screen size.
+. This project is for resume so I try my best.
+. Displaying products through json files.
+. Added dynamic wishlist confirmation.
+. Addded products to local storage.
+. Retrieve data from local storage and display in cart page.
+
+
+
+Font Class code
+    .poppins-thin
+    .playfair-display
+
